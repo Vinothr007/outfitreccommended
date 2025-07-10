@@ -1,1 +1,1 @@
-# outfitreccommended
+# outfitrecommended
